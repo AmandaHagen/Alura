@@ -12,6 +12,8 @@ https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout o uso de Gr
 
 https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4 forma de display: o inline-block.
 
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes ler mais sobre pseudo-classes
+
 <!-- New-Item imagens\.gitkeep -ItemType File --> 
 O Git não rastreia pastas vazias. Se imagens/ estiver vazia, você pode criar um arquivo especial para forçar o rastreamento. Esse .gitkeep é uma convenção usada para manter pastas vazias no repositório.
 
@@ -73,3 +75,22 @@ Exemplo:
   border-radius: 5px;
 }
 Esse botão vai ocupar apenas o espaço necessário, pode ter padding e bordas, e ainda pode ficar lado a lado com outros elementos.
+
+<!-- Pseudo-classe -->
+É uma propriedade que é adicionada ao final dos seletores que especifica o estado que esse elemento está. Ele detecta, por exemplo, se o elemento está com um mouse em cima dele, construindo uma experiência interativa com o usuário. 
+**:focus:** é aplicada quando um elemento está em foco, pode ser pelo clique do mouse ou seleção pelo teclado. Um exemplo é quando os campos de escrita em formulários estão selecionados para o usuário escrever.
+
+**:hover:** detecta quando um usuário está com o mouse em cima do elemento, sem necessariamente estar clicando.
+
+**:active:** detecta quando o elemento está ativo, quando há uma interação, por exemplo: o link <a> está sendo clicado.
+
+**:visited:** detecta quando o link <a> já foi visitado, ou seja, se você já clicou anteriormente naquele link.
+
+**:link:** detecta quando é um link <a> que nunca foi clicado antes.
+
+A sintaxe correta de uso de pseudo-classes é essa:
+Utilização na prática seria este de trocar a cor do botão para azul quando o mouse estiver em cima dele:
+.container__botao:hover {
+  background-color: blue;
+}
+
