@@ -95,3 +95,7 @@ Utilização na prática seria este de trocar a cor do botão para azul quando o
 }
 
 https://amandahagen.github.io/Alura/
+
+pelo vercel
+
+https://alura-4pipd15y4-amandahagens-projects.vercel.app/
