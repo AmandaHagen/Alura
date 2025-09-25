@@ -20,6 +20,76 @@ https://beacons.ai/aluraonline Você pode encontrar os nossos perfis
 
 https://linktr.ee/monicahillman  linktree Instrutora Monica Hillman
 
+https://www.alura.com.br/artigos/html visão geral do HTML5
+
+https://www.alura.com.br/artigos/css visão geral sobre CSS, ideal para entender as configurações básicas como variáveis e cores de fundo.
+
+https://www.alura.com.br/artigos/figma Figma é uma parte crucial do projeto, este artigo da Alura explica como usar essa ferramenta de design. Ele é perfeito para entender como transformar designs em código HTML e CSS.
+
+https://www.alura.com.br/apostila-html-css-javascript A apostila é estruturada de forma a guiar o leitor desde os conceitos mais básicos até tópicos mais avançados, com exemplos práticos e exercícios. É um recurso muito útil para quem está começando na área de desenvolvimento web ou para quem quer aprimorar suas habilidades nessas tecnologias.
+
+https://www.alura.com.br/conteudo/vscode-dicas-truques  várias dicas sobre o Visual Studio Code
+
+https://www.alura.com.br/artigos/construa-css-magico-variaveis-nativas Este artigo da Alura explica como usar variáveis CSS para tornar o código mais limpo e fácil de manter.
+
+https://www.youtube.com/watch?v=FTFaQWZBqQ8 Este vídeo do canal do YouTube da Alura oferece uma introdução ao Figma, uma ferramenta essencial para designers e devs.
+
+https://www.alura.com.br/apostila-html-css-javascript/07CA-selecionando-elementos-mais-especificos-e-heranca Um artigo da Alura que aborda os seletores CSS, incluindo o seletor universal (asterisco) e a especificidade.
+
+https://www.hipsters.tech/category/front-end/ Um episódio do podcast Hipsters Ponto Tech que discute as últimas tendências em desenvolvimento front-end.
+
+https://www.youtube.com/watch?v=hAGR0HFHE1U Este vídeo do YouTube mostra o processo de estilização de um botão em CSS. É uma aula prática que pode ser muito útil para visualizar as mudanças no estilo do botão.
+
+https://www.youtube.com/watch?v=V_q2WSx_GY0 Outro vídeo da Alura no YouTube que ensina a criar e estilizar um botão em CSS. Ideal para quem prefere aprender visualmente.
+
+https://www.youtube.com/watch?v=K9dcfIjHtH0 Neste vídeo, o foco é na estilização de um componente específico de botão, o button arrow, usando CSS. É uma boa referência para estilos mais específicos.
+
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid-template-columns Um guia detalhado sobre a propriedade grid-template-columns do CSS, essencial para entender como criar colunas no layout de grid.
+
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid-template-rows Este artigo explica como usar a propriedade grid-template-rows para definir as linhas em um layout de grid, complementando o conhecimento sobre colunas.
+
+https://www.youtube.com/watch?v=5i-ebNTjad8 Este vídeo do YouTube aborda os fundamentos do uso de ferramentas de texto e fontes no Figma. É uma ótima maneira de entender como selecionar e aplicar fontes em seus designs.
+
+https://cercomp.ufg.br/p/41410-tutorial-figma Um tutorial detalhado sobre o Figma, disponibilizado pelo Centro de Recursos Computacionais, que inclui informações sobre como trabalhar com fontes.
+
+https://pt.linkedin.com/pulse/como-usar-o-figma-guia-supremo-para-design-de-gabriel-silvestri Um guia abrangente sobre o uso do Figma para design de interfaces, incluindo a seleção e aplicação de fontes.
+
+https://blog.hubspot.com/website/css-margin-vs-padding Este artigo do HubSpot Blog explica a diferença entre margin e padding no CSS. Ele detalha como a margin é o espaço ao redor da borda de um elemento, enquanto o padding é o espaço entre a borda do elemento e seu conteúdo.
+
+https://mailchimp.com/pt-br/resources/padding-vs-margin/ Este recurso da Mailchimp aborda as diferenças chave entre padding e margin, explicando quando usar cada um. O artigo destaca a importância de entender esses conceitos para um design eficaz.
+
+https://www.w3.org/Style/Examples/007/units.en.html Um guia do W3C que explica as diferentes unidades de medida em CSS, incluindo como elas se aplicam a margins e paddings. É uma ótima referência para entender como diferentes unidades impactam o layout.
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/margin A documentação da MDN Web Docs sobre a propriedade 'margin' no CSS. Este artigo fornece detalhes técnicos e exemplos de como usar a propriedade margin em diferentes contextos.
+
+https://www.freecodecamp.org/portuguese/news/como-centralizar-tudo-com-css/ Este artigo do FreeCodeCamp explora diferentes técnicas para centralizar elementos usando CSS, tanto na horizontal quanto na vertical. É um guia prático que pode ser muito útil para entender as nuances do alinhamento em CSS.
+
+https://maujor.com/tutorial/centralizando-com-css-um-guia-completo.php Maujor, conhecido como "o dinossauro das CSS", oferece um guia completo sobre centralização com CSS. Este material é bastante detalhado e pode ser uma ótima referência para aprofundar o conhecimento.
+
+https://www.youtube.com/watch?v=Cu-HP-gvggg Este vídeo apresenta três formas diferentes de centralizar elementos no CSS, abordando tanto a centralização vertical quanto a horizontal. Inclui também algumas dicas extras que podem ser muito valiosas.
+
+https://www.youtube.com/watch?v=326-B1avuYo Este vídeo do canal Alura no YouTube traz dicas valiosas para quem está começando com Flexbox. É uma ótima forma de visualizar como o Flexbox funciona na prática.
+
+https://www.alura.com.br/apostila-html-css-javascript/19CA-novos-layouts-com-flexbox Este curso online da Alura aborda o uso do display flex em detalhes. É ideal para quem quer se aprofundar no assunto e aprender a criar layouts responsivos e modernos.
+
+https://www.youtube.com/watch?v=GNmz5dYjdcQ Um tutorial detalhado sobre a diferença entre pseudo-classes e pseudo-elements em CSS, ideal para quem está começando.
+
+https://web.dev/learn/css/pseudo-elements?hl=pt-br Este artigo explica como usar o pseudo-elemento para estilizar textos selecionados e combinar com outros seletores.
+
+https://docs.github.com/en/pages/quickstart Este tutorial oferece uma introdução rápida e prática ao GitHub Pages. Ideal para quem está começando e quer aprender a hospedar projetos diretamente do GitHub.
+
+https://kinsta.com/blog/github-pages/ Este guia detalhado ensina como criar um site estático usando o GitHub Pages, incluindo a criação de um repositório remoto e a construção de um site responsivo.
+
+https://dev.to/ivana_croxcatto/paso-a-paso-para-empezar-con-github-y-publicar-paginas-en-vercel-gim Um guia passo a passo para começar com o GitHub e publicar páginas no Vercel, incluindo a criação de uma conta no GitHub.
+
+https://www.ceiba.com.co/ceiba-blog/vercel-plataforma-de-desarrollo-en-la-nube/ Explica como criar uma base de dados ou uma API para o seu projeto no Vercel, ideal para projetos simples e não estruturados.
+
+
+
+
+
+
+
 <!-- New-Item imagens\.gitkeep -ItemType File --> 
 O Git não rastreia pastas vazias. Se imagens/ estiver vazia, você pode criar um arquivo especial para forçar o rastreamento. Esse .gitkeep é uma convenção usada para manter pastas vazias no repositório.
 
