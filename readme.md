@@ -14,6 +14,12 @@ https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-i
 
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes ler mais sobre pseudo-classes
 
+https://www.alura.com.br/artigos/heroku-vercel-outras-opcoes-cloud-plataforma mais sobre esse tipo de serviço ou conhecer outros sites
+
+https://beacons.ai/aluraonline Você pode encontrar os nossos perfis 
+
+https://linktr.ee/monicahillman  linktree Instrutora Monica Hillman
+
 <!-- New-Item imagens\.gitkeep -ItemType File --> 
 O Git não rastreia pastas vazias. Se imagens/ estiver vazia, você pode criar um arquivo especial para forçar o rastreamento. Esse .gitkeep é uma convenção usada para manter pastas vazias no repositório.
 
@@ -99,3 +105,7 @@ https://amandahagen.github.io/Alura/
 pelo vercel
 
 https://alura-4pipd15y4-amandahagens-projects.vercel.app/
+
+Uma maneira super fácil e rápida de fazer essas pequenas alterações é diretamente no GitHub.
+
+Já dentro da pasta do aluraplus, vamos pressionar o . (ponto final) no teclado. Com isso, abrimos o VS Code diretamente no navegador! Nem precisamos abrir localmente nosso computador!
