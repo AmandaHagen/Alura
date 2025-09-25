@@ -167,21 +167,47 @@ a:hover {
     font-size: 14px;
     margin: 1.5em 3em;
 }
+/* 
+@media screen and (max-width: 768px) {
+    .container {
+        display: block; /* display: block cada um dos elementos fica como blocos em cima do outro, não ficarão mais divididos entre a página */
+        /* background-image: none; 
+    }
+    .container__imagem {
+        width: 50vw;
+    }
+    .container__caixa {
+        margin: 2em 2em;
+    }
+    .secundario {
+        margin: 0;
+        text-align: center;
+    }
+    .secundario__imagem {
+        width: 50vw;
+    }
+    .terceiro {
+        margin: 0;
+        text-align: center;
+    }
+    .terceiro__imagem{ 
+        width: 50vw;
+    }
+    .rodape__lista {
+        display: block;
+    }
+} 
 
 
 
-
-
-
-
-@media (max-width: 768px) {
+*/
+ @media (max-width: 768px) { 
   .container {
     display: block;
     text-align: center;
     height: auto;
     padding: 2em 1em;
   }
-
   .container__caixa {
     margin: 0;
   }
@@ -193,8 +219,10 @@ a:hover {
   }
 
   .secundario__imagem,
-  .container__imagem {
-    width: 100%;
+  .container__imagem,
+  .terceiro__imagem{
+    width: 70%;
+
   }
 
   .descricao__titulo {
@@ -223,6 +251,7 @@ a:hover {
 
   .rodape {
     margin: 4em 1em;
+    text-align: center;
   }
 
   .rodape__texto {
